@@ -1,0 +1,22 @@
+{
+    "name": "spoowy/elasticsearch",
+    "description": "Powerful Laravel API using the official PHP client for ElasticSearch",
+    "keywords": ["database","elasticsearch","search","analytics","laravel"],
+    "homepage": "http://erwinflaming.com/elasticsearch-laravel-4-package/",
+    "authors": [
+        {
+            "name": "Erwin Flaming",
+            "email": "erwin.flaming@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Spoowy\\Elasticsearch\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
