@@ -13,7 +13,7 @@ To install the API as a Composer package to be used with Laravel 4, simply add t
 
 ```json
 "require": {
-		"elasticsearch/elasticsearch": "~1.0", // only if you haven't insalled the official ElasticSearch API for PHP
+		"elasticsearch/elasticsearch": "~1.0",
 		"spoowy/elasticsearch": "dev-master"
 }
 ```
