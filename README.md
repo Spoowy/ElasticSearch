@@ -2,9 +2,6 @@
 
 Powerful Laravel API using the official PHP client for ElasticSearch
 
-
-- **Author:** Erwin Flaming
-- **Website:** [http://erwinflaming.com](http://erwinflaming.com/)
 - **Version:** 1.0.0
 
 ## Installation
